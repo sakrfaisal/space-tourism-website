@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/space-tourism-website",
+  base: "/space-tourism-website/",
   plugins: [react(), tailwindcss()],
 });
