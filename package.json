@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sakrfaisal.github.io/space-toutism-website",
+  "homepage": "https://sakrfaisal.github.io/space-tourism-website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
