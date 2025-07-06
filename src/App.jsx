@@ -3,7 +3,7 @@ import AppRoutes from "./routes/AppRoutes";
 
 function App() {
   return (
-    <BrowserRouter basename="space-tourism-website">
+    <BrowserRouter basename="/space-tourism-website">
       <AppRoutes />
     </BrowserRouter>
   );
