@@ -43,7 +43,7 @@ export default function Moon() {
       </div>
       <div className="flex flex-col lg:flex-row items-center text-center lg:text-left container px-6 sm:px-8 lg:px-0 lg:pl-12 gap-4 lg:max-w-168">
         <TechTabs technologies={technologies} active={techId} />
-        <div className="max-w-150 lg:max-w-117">
+        <div className="max-w-150 lg:max-w-134">
           <p className="text-preset4 text-[#ffffff80] uppercase">The terminology...</p>
           <h2 className="uppercase text-preset3 text-white">{technology.name}</h2>
           <p className="text-preset9 text-custom-blue-300">{technology.description}</p>
